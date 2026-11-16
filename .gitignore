@@ -1,0 +1,20 @@
+# Fine-tuned model weights (>100 MB GitHub limit)
+model/
+*.safetensors
+*.bin
+*.pt
+
+# Python & IDE artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+
+# OS & temporary files
+.DS_Store
+Thumbs.db
